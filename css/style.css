@@ -352,7 +352,7 @@ body {
 .banner-name {
     font-size: 36px;
     text-align: center;
-    font-family: var(--title-font);
+    font-family: var(--script-font);
     color: var(--text-white);
     opacity: .8;
 }
